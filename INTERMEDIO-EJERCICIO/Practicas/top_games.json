@@ -1,0 +1,26 @@
+[
+    {
+        "ID_Juego": "001",
+        "Nombre": "THE LEGEND OF ZELDA",
+        "A\u00f1o": "1986",
+        "Rating": 9.5
+    },
+    {
+        "ID_Juego": "002",
+        "Nombre": "METROID",
+        "A\u00f1o": "1986",
+        "Rating": 8.9
+    },
+    {
+        "ID_Juego": "003",
+        "Nombre": "EARTHBOUND",
+        "A\u00f1o": "1994",
+        "Rating": 9.7
+    },
+    {
+        "ID_Juego": "005",
+        "Nombre": "FINAL FANTASY VII",
+        "A\u00f1o": "1997",
+        "Rating": 9.8
+    }
+]
